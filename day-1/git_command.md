@@ -18,3 +18,9 @@ to point our locl repository to github=>
 initialie our current base branch to main: 'git branch -M main'
 
 to push our local repo to github ==> 'git push -u origin main'
+
+<!-- whenever you male change to your project, follow this process to push to github-->
+
+'git add .'
+'git commit -m 'your commit message''
+'git push'
