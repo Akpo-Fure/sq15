@@ -44,3 +44,5 @@ to push our local repo to github ==> 'git push -u origin main'
 to merge new-brnch into main => 'git merge new-branch'
 
 'git log' => show commit history
+
+'git clone' =>used to download a copy of the remote repository into our local machine
