@@ -9,3 +9,12 @@ git commit => commit changes to local repo
 
 git push => push changes to remote repo
 to use the command, 'git push'
+
+<!-- create a new repository to github and push your code to it -->
+
+to point our locl repository to github=>
+'git remote add origin https://github.com/Akpo-Fure/sq15.git'
+
+initialie our current base branch to main: 'git branch -M main'
+
+to push our local repo to github ==> 'git push -u origin main'
