@@ -1,3 +1,7 @@
+Git is a version control system
+Git helps you to keeel trach of code changes
+Git is used to collaborate with other developers
+
 git add => add file to staging area
 to use git add, 'git add <flle_name>'
 
