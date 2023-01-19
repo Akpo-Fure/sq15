@@ -40,3 +40,7 @@ to push our local repo to github ==> 'git push -u origin main'
 'git branch <branch_name>' => create a new branch
 
 'git checkout <branch_name>' => switch to a branch
+
+to merge new-brnch into main => 'git merge new-branch'
+
+'git log' => show commit history
